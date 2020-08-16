@@ -1,4 +1,5 @@
-**myTDX** (my tiny todo extended)
+Sourced from myTDX : https://github.com/MoonCactus/myTDX
+(my tiny todo extended)
 
 As the name suggests, this project is heavily based on an old but very well done ajax todolist
 written by maxpozdeev/mytinytodo (http://www.mytinytodo.net/). It also works quite well on mobile phones.
@@ -36,4 +37,3 @@ to change this but it helps keep things tidy. The grayed tags are "borrowed" fro
 - I added a backup system in case you are using sqlite (which I always receommend unless you really
 have a reason to use mysql). Backuped files are kept according to the main settings, and restoration
 must be done manually if ever something terrible happens
-
